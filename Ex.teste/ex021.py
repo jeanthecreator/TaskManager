@@ -1,3 +1,4 @@
+from socket import timeout
 import pygame
 pygame.init()
 
